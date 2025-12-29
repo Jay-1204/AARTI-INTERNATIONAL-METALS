@@ -7,7 +7,7 @@ import io
 from PIL import Image
 import os
 from fpdf import FPDF, HTMLMixin
-import textwrap
+# import textwrap
 import html as _html 
 import json
 import requests
